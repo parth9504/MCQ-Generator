@@ -1,10 +1,12 @@
 **Learn Mate: Companion for Learning**
+
+
 This project aims to provide an AI driven based platform to learners, to evaluate their learning by **summarizing text**, generating **objective** and **subjective questions**.
 
 The proposed project leverages cutting-edge natural language processing (NLP) techniques to  create an AI-driven platform for summarizing and evaluating textual data. The platform is designed to process uploaded documents, including .docx and .pdf files, using Python libraries like python-docx and PyPDF2. This functionality ensures broad compatibility with various document formats, making it accessible to diverse user needs. Once the document is uploaded, the first step involves generating an abstractive summary of the content using the Pegasus model, a state-of-the-art transformer designed specifically for text summarization. The model condenses the text into a coherent and contextually accurate summary, enabling users to grasp the essence of lengthy materials effortlessly.
 
 Attached below is the workflow of this project.
-![Input Files (Formats like  pdf, docx)](https://github.com/user-attachments/assets/9146b67a-cc9f-40c4-b827-94cd566e13a9)
+![Input Files (Formats like  pdf, docx)](https://github.com/user-attachments/assets/9ef869da-6bc1-4ef1-8682-cd56c772da5c)
 
 **Project Overview**
 This project encompasses the following features:
