@@ -24,7 +24,8 @@ The MCQ generation process involves the following steps:
 - **Keyword Identification**: Important keywords, including nouns, pronouns, adjectives, dates, numbers, and values, are extracted and ranked based on their contextual importance.
 - **Blank Creation**: Critical keywords are replaced with blanks to form fill-in-the-blank-style questions.
 - **Distractor Generation**: Using the Sense2Vec library, contextually similar but incorrect options (distractors) are generated. These distractors enhance the quality of MCQs by making them more challenging and thought-provoking.
-4. Subjective Question Generation
+
+**4. Subjective Question Generation**
 For subjective questions, the platform uses a transformer model (T5) trained on the SQuAD dataset which is available on Hugging Face Transformers too. The process includes:
 
 - **Sentence Selection**: Specific sentences from the summarized content are chosen.
