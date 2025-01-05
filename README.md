@@ -9,6 +9,7 @@ Attached below is the workflow of this project.
 ![Input Files (Formats like  pdf, docx)](https://github.com/user-attachments/assets/9ef869da-6bc1-4ef1-8682-cd56c772da5c)
 
 **Project Overview**
+
 This project encompasses the following features:
 
 **1. Document Uploading**
