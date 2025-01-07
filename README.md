@@ -3,6 +3,9 @@
 
 This project aims to provide an AI driven based platform to learners, to evaluate their learning by **summarizing text**, generating **objective** and **subjective questions**.
 
+![GUI](https://github.com/user-attachments/assets/8613cbc8-fdff-4973-96c1-8d0eac8215b3)
+
+
 The proposed project leverages cutting-edge natural language processing (NLP) techniques to  create an AI-driven platform for summarizing and evaluating textual data. The platform is designed to process uploaded documents, including .docx and .pdf files, using Python libraries like python-docx and PyPDF2. This functionality ensures broad compatibility with various document formats, making it accessible to diverse user needs. Once the document is uploaded, the first step involves generating an abstractive summary of the content using the Pegasus model, a state-of-the-art transformer designed specifically for text summarization. The model condenses the text into a coherent and contextually accurate summary, enabling users to grasp the essence of lengthy materials effortlessly.
 
 Attached below is the workflow of this project.
